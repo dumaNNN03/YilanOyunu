@@ -1,3 +1,3 @@
 # YilanOyunu
 
-Windows form uygulamasıyla bir yılan yapıyon bir yılan oyunudur.
+Windows form uygulamasıyla yapılan bir yılan oyunudur.
